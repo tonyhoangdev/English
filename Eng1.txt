@@ -1,0 +1,51 @@
+unit 1:
+1. Accountant (n) - Nhân viên kế toán
+She works as an accountant in our company : Cô ấy là kế toán của công ty chúng tôi
+1.1. Account (n) - Tài khoản
+I paid the money into my account this morning : Tôi đã nộp tiền vào tài khoản của tôi sáng nay
+1.2. Accounting (n) - Ngành kế toán, công việc kế toán
+She studied accounting for 3 years at Standford University : Cô ấy đã học chuyên ngành kế toán trong 3 năm ở đại học Standford
+
+2. Appointment (n) - Sự bổ nhiệm, cuộc hẹn
+What time is your appointment with the bank manager : Bạn có cuộc hen với quản lý ngân hàng vao lúc nào
+2.1. Appoint (v) - bổ nhiệm, chỉ định, hẹn (ngày giờ)
+They still have not appointed his replacement : Họ vẫn chưa bổ nhiệm người tay thế ông ấy
+2.2. Appointee (n) - Người được bổ nhiệm
+One in five of the new appointee is female : Một trong năm người mới được bổ nhiệm là nữ
+
+3. Colleague (n) - Đồng nghiệp
+He has a good working relationship with colleagues : Anh ấy có một mối quan hệ tốt với đồng nghiệp
+3.1. co-worker (n) - Đồng nghiệp
+Some of my co-worker are also my friends at work : Một vài đồng nghiệp của tôi cũng là những bạn của tôi ở nơi làm việc
+
+4. Computer (n) - Máy tính để bàn
+You will need a user name and password in order to log onto the computer : bạn sẽ cần có tài khoản và mật khẩu để đăng nhập vào máy tính
+4.1. Computing (n) - Sử dụng máy tính, tin học
+Have you ever done any computing? : Đã bao giờ bạn sử dụng máy tính chưa?
+4.2. Computerization (n) - Vi tính hóa
+There is the computerization of the printing industry : ở đây có sự vi tính hóa của ngành in ấn
+4.2. Computerize (v) - Tích trữ (thông tin) trong máy tính
+The firm has computerized its records : Công ty đã lưu trữ số liệu trong máy tính
+
+5. Desk (n) - Bàn làm việc
+She sat at her desk writing the report : Cô ấy ngồi vào bàn làm việc và viết báo cáo
+
+6. Director (n) - Người quản lý, giám đốc
+He became the director of the company : Anh ta trở thành giám đốc của công ty
+6.1. Executive (n) - Quản trị viên
+They are the top executives on high salaries : Họ là những quản trị viên hàng đầu với mức lương cao
+6.2. Direction (n) - Sự điều khiển, lời hướng dẫn, phương hướng
+Be sure you read the directions before using any piece of equipment : Bạn nhớ đọc kĩ hướng dẫn trước khi sử dụng bất cứ bộ phận nào của trang thiết bị
+6.3. Directness (n) - Tính thẳng thắn, tính trực tiếp
+She has a childlike enthusiasm and directness : Cô có tính nhiệt tình kiểu trẻ con và rất thẳng thắn
+6.4. Redirect (v) - chuyển hướng, gửi một lần nữa
+Cost savings have allowed companies to redirect resources to other projects : Tiết kiệm chi phí cho phép các công ty chuyển hướng nguồn lực cho các dự án khác
+6.5. Direct (adj) - trực tiếp
+She decided to take direct control of the project : Cô ấy đã quyết định điều hành trực tiếp dự án
+6.6. Directly (adv) - một cách trực tiếp, ngay lập tức, ngay tức khắc
+Let me answer that question directly :  Hãy để trả lời câu hỏi đó một cách trực tiếp
+Bosses were indirectly blamed for a stressful environment : các ông chủ đã bị đổ lỗi một cách gián tiếp về việc tao ra một trường làm việc căng thẳng
+6.7 Direct (v) - chỉ đạo, hướng tới
+This sales promotion is directed towards retail customers : Khuyến mãi này đươc hướng tới những khách hàng bán lẻ
+6.8 Indirect (adj) - gián tiếp, quanh co
+He made only on indirect reference to what had happened at the meeting : anh ấy chỉ để cập một cách gián tiếp những điều đã diễn ra trong cuộc họp
